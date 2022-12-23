@@ -19,3 +19,7 @@ My Estimate,US East (N. Virginia),Amazon elastic IP,Amazon Elastic IP,0,0.07,0.8
 
 Acknowledgement
 "* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
+
+
+Rationale
+Using a smaller instance (db.m4.4xlarge) for RDS database, added savings for EC2 from reserved instances.

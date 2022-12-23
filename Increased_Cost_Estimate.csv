@@ -21,3 +21,6 @@ My Estimate,US East (N. Virginia),Cloudfront to serve s3 data,Amazon CloudFront,
 
 Acknowledgement
 "* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
+
+Rationale
+Added additional services, Cloudwatch for logs, increased the number of AWS EC2 instances, using amazon aurora with mysql
